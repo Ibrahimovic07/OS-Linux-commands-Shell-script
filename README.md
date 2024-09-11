@@ -1,3 +1,6 @@
+
+
+
 # OS-Linux-commands-Shell-scripting
 
 Operating systems Lab exercise
@@ -5,6 +8,9 @@ Operating systems Lab exercise
 # Linux commands-Shell scripting
 
 Linux commands-Shell scripting
+
+# NAME : mohammed ibrahim mn
+# roll no : 212223100034
 
 # AIM:
 
