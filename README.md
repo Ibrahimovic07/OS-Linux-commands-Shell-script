@@ -3,6 +3,10 @@ Operating systems Lab exercise
 # Linux commands-Shell scripting
 Linux commands-Shell scripting
 
+## Name:Mohammed ibrahim MN
+## Roll No : 212223100034
+
+
 # AIM:
 To practice Linux Commands and Shell Scripting
 
